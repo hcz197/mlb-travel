@@ -21,7 +21,7 @@ stadiums = {
     "SF" : ("Oracle Park", (37.7786, -122.3893)),
     "SEA" : ("T-Mobile Park", (47.5914, -122.3326)),
     "STL" : ("Busch Stadium", (38.6226, -90.1928)),
-    "TB" : ("Tropicana Field", (27.7682, -82.6534)),
+    "TB" : ("George M. Steinbrenner Field", (27.9781, -82.5033)),
     "TEX" : ("Globe Life Field", (32.7512, -97.0832)),
     "TOR" : ("Rogers Centre", (43.6414, -79.3894)),
     "WSH" : ("Nationals Park", (38.8730, -77.0074)),
@@ -65,4 +65,4 @@ teams = {
 } #Trashtrolls
 
 
-Athletics = {"OAK" : ("Oakland Coliseum", (37.7516, -122.2005))}
+# Oakland_Athletics = {"OAK" : ("Oakland Coliseum", (37.7516, -122.2005))}
